@@ -1,0 +1,24 @@
+{
+  "start_url": "https://w8.snokido.com/embed/vs-impostor",
+  "root_path_prefix": "embed/vs-impostor",
+  "pages": {
+    "https://w8.snokido.com/embed/vs-impostor": "embed/vs-impostor.html"
+  },
+  "assets": {
+    "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495": "embed/vs-impostor/assets/_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495.js",
+    "https://wgd.wgplayer.com/wgdu/gfc/universal-choices.min.js": "embed/vs-impostor/assets/_external/wgd.wgplayer.com/wgdu/gfc/universal-choices.min.js",
+    "https://universal.wgplayer.com/tag/?lh=w8.snokido.com&wp=/embed/vs-impostor&ws=": "embed/vs-impostor/assets/_external/universal.wgplayer.com/tag/asset.js",
+    "https://beacon.wgplayer.com/beacon.min.js?v=10": "embed/vs-impostor/assets/_external/beacon.wgplayer.com/beacon.min.js",
+    "https://afg.wgplayer.com/w8.snokido.com/wgAds.desktop.conf.js": "embed/vs-impostor/assets/_external/afg.wgplayer.com/w8.snokido.com/wgAds.desktop.conf.js",
+    "https://afg.wgplayer.com/w8.snokido.com/js/oM0VtnmDuzMPXLwUvxDYAg/88181525120/wgAds.js": "embed/vs-impostor/assets/_external/afg.wgplayer.com/w8.snokido.com/js/oM0VtnmDuzMPXLwUvxDYAg/88181525120/wgAds.js",
+    "https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fw8.snokido.com%2Fembed%2Fvs-impostor": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/pagead/ima_ppub_config.json",
+    "https://s0.2mdn.net/instream/video/client.js": "embed/vs-impostor/assets/_external/s0.2mdn.net/instream/video/client.js",
+    "https://w8.snokido.com/favicon.ico": "favicon.ico",
+    "https://securepubads.g.doubleclick.net/tag/js/gpt.js": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202609290101/gpt": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/pagead/managed/dict/m202609290101/gpt.txt",
+    "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609230101/pubads_impl.js?cb=122881214": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609230101/pubads_impl.js",
+    "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=8488781968921348&correlator=2021961481694889&eid=95403398%2C122880507%2C122881176%2C122881289%2C122880809%2C122881214&output=ldjh&gdfp_req=1&vrg=202609230101&ptt=17&impl=fifs&iu_parts=1002212%3A66145534%2CWGH5%2Cw8.snokido.com&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=1x1&ifi=1&dids=gpt_unit_%2F1002212%2C66145534%2FWGH&sfv=1-0-45&ists=1&fas=10&eri=4&sc=1&cookie_enabled=1&cdm=w8.snokido.com&abxe=1&dt=1790718887774&adxs=-9&adys=-9&biw=1365&bih=768&isw=1365&ish=768&scr_x=0&scr_y=0&btvi=-1&ucis=vb0ksdneizhw&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=-420&dmc=32&bc=31&nvt=7&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&nhd=1&url=https%3A%2F%2Fw8.snokido.com%2Fembed%2Fvs-impostor&loc=about%3Asrcdoc&top=w8.snokido.com&vis=1&psz=0x-1&msz=0x-1&fws=2&ohw=0&dlt=1790718887691&idt=69&prev_scp=content_cat%3Dcasual_games%2Cpc_games%2Cvideo_gaming&adks=2401525794&frm=23&eoidce=1": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/gampad/ads.txt",
+    "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=4366247746980284&correlator=1645235622666671&eid=122880891%2C122881214%2C95380385&output=ldjh&gdfp_req=1&vrg=202609230101&ptt=17&impl=fif&iu_parts=1002212%3A66145534%2CWGH5%2Cw8.snokido.com&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=1x1&ifi=1&dids=gpt_unit_%2F1002212%2C66145534%2FWGH&sfv=1-0-45&ists=1&fas=11&eri=4&sc=1&cookie=ID%3D1a39aacde8538ed7%3AT%3D1790718886%3ART%3D1790718886%3AS%3DALNI_MYMQkbUdLtkdgA8PB1e1rUA4dL1Qw&gpic=UID%3D00001534147293e4%3AT%3D1790718886%3ART%3D1790718886%3AS%3DALNI_MZgZPlDTwydYY7YMawNxEEQA8fbUw&cdm=w8.snokido.com&abxe=1&dt=1790718888195&adxs=-9&adys=-9&biw=1365&bih=768&isw=1365&ish=768&scr_x=0&scr_y=0&btvi=-1&ucis=2x2eo9mipee&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=-420&dmc=32&bc=31&nvt=7&uach=WyIiLCIiLCIiLCIiLCIiLG51bGwsMCxudWxsLCIiLG51bGwsMF0.&nhd=1&url=https%3A%2F%2Fw8.snokido.com%2Fembed%2Fvs-impostor&loc=about%3Asrcdoc&top=w8.snokido.com&vis=1&psz=0x-1&msz=0x-1&fws=2&ohw=0&dlt=1790718888181&idt=9&prev_scp=content_cat%3Dcasual_games%2Cpc_games%2Cvideo_gaming&adks=2401525794&frm=23&cpu=4&eo_id_str=ID%3D9170fe80dea9674f%3AT%3D1790718886%3ART%3D1790718886%3AS%3DAA-AfjbW0kAjNasTRjcWw1LpKt7H": "embed/vs-impostor/assets/_external/securepubads.g.doubleclick.net/gampad/ads__q139d681b.txt"
+  },
+  "created_at": 1790718890.6466296
+}
